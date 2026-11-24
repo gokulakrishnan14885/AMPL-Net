@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and this software repository."
+title: "Gujarat Cotton AMPL-Net and IECO Reproducibility Code"
+version: 1.0.0
+date-released: 2026-11-24
+license: MIT
